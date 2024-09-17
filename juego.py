@@ -26,6 +26,14 @@ while verificador == 0:
         
 
 
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
 
 
 
